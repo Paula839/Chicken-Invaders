@@ -1,0 +1,816 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ChickenProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(51,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(162,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(163,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(164,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(173,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(178,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(179,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(180,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(181,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(182,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(183,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(184,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(310,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(385,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(446,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(446,33): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(447,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(447,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(468,38): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(468,30): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(517,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(661,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(812,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(813,32): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(818): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(827,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(828,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(836,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1300,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1301,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1309,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1394,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1395,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1405,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1457,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1458,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1462,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1515,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1729,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1738,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1739,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1740,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1778,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1779,66): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1826,31): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1831,35): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1832,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1836,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1914,68): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1914,51): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1969,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(1985,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2165,68): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2165,51): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2230,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2259,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2284,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2298,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2303,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2303,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2309,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2309,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2310,90): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2310,82): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2310,73): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2310,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2312,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2350,84): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2350,62): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2431,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2472,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2572,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2618,86): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2618,63): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2639,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2671,31): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2674,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2788,73): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2788,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2791,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2792,27): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2842,37): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2843,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2876,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2885,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2892,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2893,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(2914,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(846,10): warning C4101: 'event': unreferenced local variable
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3062,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3064,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3066,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3068,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3080,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3082,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3084,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3110,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3111,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3116,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3117,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3154,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3171,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3181,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3187,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3194,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3200,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3239,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3250,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3252,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3254,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3262,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3271,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3272,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3273,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3314,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3315,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3319,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3373,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3377,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3381,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3385,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3388,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3393,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3406,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3410,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3424,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3431,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3445,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3450,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3499,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3501,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3642,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3644,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3710,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3737,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3765,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(3994,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4006,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4009,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4027,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4037,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4040,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4074,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4092,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4117,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4135,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4156,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4157,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4160,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4167,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4174,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4175,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4178,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4185,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4200,28): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4206,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4212,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4218,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4218,44): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4328,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4379,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4396,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4482,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4533,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(4550,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5043,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5058,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5092,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5096,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5122,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5128,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5135,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5140,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5172,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5178,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5184,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5191,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5196,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5203,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5235,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5241,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5247,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5253,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5260,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5265,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5272,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5277,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5316,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5322,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5328,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5334,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5340,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5347,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5352,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5358,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5363,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5368,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5414,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5420,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5426,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5432,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5438,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5444,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5451,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5463,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5468,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5474,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5481,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5531,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5537,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5543,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5549,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5555,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5561,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5567,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5574,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5579,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5586,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5591,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5598,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5603,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5608,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5664,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5670,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5676,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5682,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5688,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5694,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5700,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5706,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5713,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5718,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5723,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5731,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5736,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5741,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5746,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5751,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5813,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5819,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5825,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5831,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5837,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5843,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5849,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5855,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5861,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5868,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5873,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5880,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5885,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5892,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5897,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5902,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5907,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5912,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(5997,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6003,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6009,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6015,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6021,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6027,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6033,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6039,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6045,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6051,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6058,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6063,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6070,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6075,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6082,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6087,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6093,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6098,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6105,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6110,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6115,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6127,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6129,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6134,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6136,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6138,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6142,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6161,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6165,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6191,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6197,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6204,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6209,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6241,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6247,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6253,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6260,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6265,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6272,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6304,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6310,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6316,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6322,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6329,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6334,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6341,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6346,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6385,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6391,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6397,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6403,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6409,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6416,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6421,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6427,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6432,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6437,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6483,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6489,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6495,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6501,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6507,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6513,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6520,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6532,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6537,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6543,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6550,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6600,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6606,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6612,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6618,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6624,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6630,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6636,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6643,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6648,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6655,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6660,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6667,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6672,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6677,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6733,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6739,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6745,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6751,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6757,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6763,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6769,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6775,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6782,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6787,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6792,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6800,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6805,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6810,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6815,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6820,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6882,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6888,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6894,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6900,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6906,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6912,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6918,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6924,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6930,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6937,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6942,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6949,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6954,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6961,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6966,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6971,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6976,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(6981,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7066,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7072,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7078,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7084,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7090,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7096,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7102,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7108,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7114,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7120,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7127,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7132,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7139,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7144,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7151,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7156,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7162,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7167,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7174,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7179,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7184,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7451,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7453,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7475,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7509,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7513,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7539,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7545,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7552,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7557,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7589,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7595,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7601,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7608,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7613,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7620,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7652,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7658,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7664,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7670,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7677,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7682,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7689,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7694,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7733,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7739,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7745,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7751,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7757,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7764,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7769,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7775,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7780,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7785,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7831,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7837,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7843,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7849,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7855,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7861,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7868,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7880,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7885,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7891,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7898,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7948,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7954,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7960,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7966,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7972,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7978,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7984,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7991,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(7996,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8003,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8008,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8015,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8020,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8025,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8081,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8087,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8093,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8099,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8105,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8111,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8117,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8123,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8130,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8135,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8140,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8148,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8153,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8158,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8163,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8168,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8230,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8236,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8242,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8248,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8254,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8260,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8266,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8272,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8278,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8285,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8290,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8297,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8302,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8309,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8314,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8319,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8324,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8329,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8414,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8420,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8426,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8432,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8438,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8444,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8450,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8456,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8462,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8468,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8475,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8480,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8487,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8492,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8499,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8504,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8510,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8515,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8522,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8527,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8532,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8544,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8546,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8551,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8553,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8555,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8559,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8580,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8584,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8610,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8616,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8623,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8628,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8660,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8666,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8672,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8679,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8684,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8691,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8723,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8729,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8735,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8741,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8748,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8753,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8760,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8765,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8804,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8810,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8816,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8822,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8828,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8835,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8840,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8846,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8851,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8856,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8902,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8908,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8914,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8920,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8926,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8932,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8939,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8951,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8956,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8962,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(8969,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9019,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9025,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9031,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9037,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9043,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9049,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9055,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9062,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9068,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9075,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9080,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9087,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9092,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9097,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9153,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9159,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9165,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9171,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9177,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9183,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9189,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9195,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9202,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9207,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9212,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9220,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9225,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9230,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9235,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9240,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9302,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9308,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9314,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9320,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9326,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9332,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9338,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9344,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9350,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9357,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9362,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9369,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9374,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9381,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9386,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9391,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9396,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9401,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9486,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9492,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9498,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9504,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9510,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9516,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9522,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9528,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9534,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9540,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9547,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9552,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9559,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9564,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9571,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9576,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9582,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9587,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9594,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9599,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9604,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9651,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9671,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9690,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9710,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9740,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9750,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9759,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9768,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9779,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9785,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9792,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9798,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9810,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9811,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9819,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9820,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9830,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9831,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9841,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9842,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9852,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9854,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9864,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9973,63): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(9976,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(11106,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(11300,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(11301,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12131,26): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12137,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12144,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12151,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12169,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12179,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12191,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12199,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12221,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12223,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12242,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12242,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12252,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12262,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12269,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12270,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12320,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12324,42): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12325,42): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12326,43): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12327,43): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12328,38): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12366,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12374,41): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12375,41): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12376,38): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12400,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12408,41): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12409,41): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12410,38): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12434,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12443,41): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12444,41): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12445,42): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12446,38): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12477,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12486,40): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12487,41): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12488,41): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12489,38): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12520,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12543,34): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12544,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12555,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12567,37): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12574,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12693,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12708,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12711,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12714,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12718,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12725,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12728,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12731,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12733,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12740,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12743,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12746,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12749,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12755,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12758,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12761,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\a\source\repos\ChickenProject\ChickenProject\Source.cpp(12764,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  ChickenProject.vcxproj -> C:\Users\a\source\repos\ChickenProject\Debug\Chicken3Project.exe

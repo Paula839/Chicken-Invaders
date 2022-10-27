@@ -1,0 +1,64 @@
+#include <SFML/Graphics.hpp>
+#include <iostream>
+using namespace std;
+using namespace sf;
+int main() {
+    RenderWindow window(VideoMode(1000, 500), "gifts");
+    //sprite  
+    //egg 
+    //gifts  
+    Texture Rgifts;
+    Texture Bgifts;
+    Texture Ggifts;
+    Rgifts.loadFromFile("./red.png");
+    Bgifts.loadFromFile("./blue.png");
+    Ggifts.loadFromFile("./green.png");
+    Sprite red(Rgifts);
+    Sprite blue(Bgifts);
+    Sprite green(Ggifts);
+    blue.setTexture(Bgifts);
+    red.setTexture(Rgifts);
+    green.setTexture(Ggifts);
+    double gravity = 0.1;
+    float x =-500+rand()%20;
+    RectangleShape rect(Vector2f(2000,100));
+   
+    rect.setPosition(0, 500);
+    rect.setFillColor(Color::Blue);
+    red.setPosition(200, x);
+    blue.setPosition(600, 12*x);
+    green.setPosition(500, 6*x);
+    red.setScale(.5, .5);
+    green.setScale(.5, .5);
+    blue.setScale(.5, .5);
+    while (window.isOpen()) {
+        Event event;
+        
+                blue.move(0, gravity);
+
+                red.move(0, gravity);
+
+                green.move(0, gravity);
+           
+        while (window.pollEvent(event)) {
+            if (event.type == event.Closed)
+                window.close();
+        }
+        if (rect.getGlobalBounds().intersects(red.getGlobalBounds())) {
+            red.setPosition(200, x);
+        }
+        if (rect.getGlobalBounds().intersects(blue.getGlobalBounds())) {
+            blue.setPosition(600, 4*x);
+        }
+        if (rect.getGlobalBounds().intersects(green.getGlobalBounds())) {
+            green.setPosition(500, 3*x);
+        }
+        window.clear();
+        window.draw(blue);
+        window.draw(red);
+        window.draw(green);
+        window.draw(rect);
+        window.display();
+    }
+    return 0;
+}

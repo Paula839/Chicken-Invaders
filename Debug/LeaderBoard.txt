@@ -1,0 +1,6 @@
+Bishoy	5	181000
+Anas	5	245000
+Asmaa	2	53500
+Aya	3	105000
+Anton	4	149000
+Paula	1	26000
